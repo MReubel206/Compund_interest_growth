@@ -27,7 +27,7 @@ Built in MySQL Workbench under the `compound_interest-project_8426` schema.
 
 Growth results were exported and charted in Excel using a PivotTable and line chart, comparing the three scenarios side-by-side over the full time period. The chart includes labeled axes, a cleaned-up legend, and endpoint data labels marking the final balance for each scenario.
 
-*(Screenshot of chart can be added here: `![Growth Chart](images/growth_chart.png)`)*
+📊 [View the full chart and calculations in the Excel workbook](./growth_chart.xlsx)
 
 ## Debugging Log
 
